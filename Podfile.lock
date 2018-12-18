@@ -1,0 +1,24 @@
+PODS:
+  - MBProgressHUD (1.1.0)
+  - TwitterCore (3.0.3)
+  - TwitterKit (3.2.2):
+    - TwitterCore (>= 3.0.3)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 1.1.0)
+  - TwitterKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MBProgressHUD
+    - TwitterCore
+    - TwitterKit
+
+SPEC CHECKSUMS:
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  TwitterCore: 549c74ed5f3d6134392dc944c6d215e233e50ad8
+  TwitterKit: b9feccfc70bef86fe389c06a63a72fed9f020b9c
+
+PODFILE CHECKSUM: 2fc01427a9d0e5d60b32500ce0d448bc55a3f071
+
+COCOAPODS: 1.5.3
